@@ -1,0 +1,19 @@
+{
+  "name": "event-analytics-vuejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keurcien/event-analytics-vuejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keurcien/event-analytics-vuejs/issues"
+  },
+  "homepage": "https://github.com/keurcien/event-analytics-vuejs#readme",
+  "description": ""
+}
